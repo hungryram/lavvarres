@@ -506,6 +506,7 @@ fields:
   template: url
   label: URL
 pages:
+- content/listings/1137-sc-hwy-39.md
 - content/listings/1308-e-49th-st.md
 - content/listings/194-mercer-street-1.md
 - content/listings/2208-southwest-dr.md
