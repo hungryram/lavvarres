@@ -1,12 +1,11 @@
 ---
 slideshow:
-- heading: Flexible Real Estate Theme
+- heading: GWB Land Acquisitions and Sales, LLC
   subtitle: Let our team of experts guide you to your next home
   link_label: Read More
   link: https://www.hungryram.com
   image: https://res.cloudinary.com/hungryram19/image/upload/v1613081894/lavarres-lynch/land-site/land_nbb3fo.jpg
-  body: Modern real estate website powered by new technology. This site does not rely
-    on any database which ensures optimal performance and the highest security
+  body: Making land ownership possible
   enable_white_text: true
 home_sections:
 - template: text-and-image
