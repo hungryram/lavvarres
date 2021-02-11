@@ -4,17 +4,10 @@ slideshow:
   subtitle: Let our team of experts guide you to your next home
   link_label: Read More
   link: https://www.hungryram.com
-  image: https://res.cloudinary.com/hungryram19/image/upload/v1605404579/templates/realestate2/slider3_o30w9i_pujrai.jpg
+  image: https://res.cloudinary.com/hungryram19/image/upload/v1613081894/lavarres-lynch/land-site/land_nbb3fo.jpg
   body: Modern real estate website powered by new technology. This site does not rely
     on any database which ensures optimal performance and the highest security
   enable_white_text: true
-- image: https://res.cloudinary.com/hungryram19/image/upload/v1605404343/templates/realestate2/farmhousekitchen_z56hb7.jpg
-  subtitle: my subtitle
-  body: 'No need to bloat the website with drag and drop or page builders. '
-  enable_white_text: true
-  link: View Properties
-  link_label: "/listings"
-  heading: No Heavy Resources
 home_sections:
 - template: text-and-image
   heading: Discover Our Finest Homes
@@ -25,7 +18,7 @@ home_sections:
   button_link: "/our-team"
   image: https://res.cloudinary.com/hungryram19/image/upload/v1605402573/templates/realestate2/agent-4_ovchvb.jpg
   image_alt_tag: John
-  image_width: '400'
+  image_width: 400
 - template: active-listings
   heading: Active Listings
   body: View active listings in the office
