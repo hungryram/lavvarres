@@ -1,5 +1,5 @@
 ---
-company_name: Real Estate Company
+company_name: Generational Wealth Builders
 social_media:
   instagram: https://instagram.com
   twitter: http://twitter.com/
@@ -7,19 +7,18 @@ social_media:
   pinterest: https://pinterest.com
   yelp: https://www.yelp.com/
 contact_information:
-  phone: "5555555555"
-  name: Demo Account
-  cell: 658-445-6326
-  address: '412 Westside Rd. '
-  email: ram@hungryram.com
-  license: BRE 8431654
-  city: Riverside
-  state: CA
-  zip_code: "92882"
+  phone: 803-592-4321
+  name: Lavarres Lynch
+  cell: ''
+  address: ''
+  email: gwblas@yahoo.com
+  license: ''
+  city: ''
+  state: ''
+  zip_code: ''
 search_engine_optimization:
-  title_tag: Real Estate Theme
-  meta_description: No page builders or drag and drop. Experience a new technology
-    stack
+  title_tag: GWB Land Acquisitions and Sales, LLC
+  meta_description: Making Land ownership possible
   twitter_card:
     twitter_username: ''
   facebook:
