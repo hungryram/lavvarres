@@ -26,20 +26,6 @@ home_sections:
 - template: active-listings
   heading: Active Listings
   body: View active listings in the office
-- template: featured-boxes
-  heading: Featured Communities
-  body: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro optio fugit
-    non delectus eos, quas, dolorem alias '
-  featured:
-  - image: https://res.cloudinary.com/hungryram19/image/upload/v1605402922/templates/realestate2/losangeles_z6wp8g.jpg
-    link: "/contact"
-    heading: Los Angeles
-  - heading: Whittier
-    image: https://res.cloudinary.com/hungryram19/image/upload/v1605402939/templates/realestate2/livingroom_az8tp4.jpg
-    link: "/contact"
-  - heading: Corona
-    image: https://res.cloudinary.com/hungryram19/image/upload/v1605402970/templates/realestate2/sidekix-media-l6u4GIKvxBs-unsplash_qipkhd.jpg
-    link: "/contact"
 - template: text-and-contact-form
   heading: We help you buy or sell your property quickly
   body: Engage with our professional real estate agents to sell, buy or rent your
