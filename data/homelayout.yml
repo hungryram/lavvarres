@@ -21,7 +21,7 @@ home_sections:
   button: Get in touch
   button_link: "/contact"
   image: https://res.cloudinary.com/hungryram19/image/upload/v1613236956/lavarres-lynch/land-site/gw_n6cmby.png
-  image_alt_tag: John
+  image_alt_tag: GWB Land Acquisitions and Sales, LLC
   image_width: 400
 - template: active-listings
   heading: Active Listings
