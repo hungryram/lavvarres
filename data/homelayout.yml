@@ -9,13 +9,18 @@ slideshow:
   enable_white_text: true
 home_sections:
 - template: text-and-image
-  heading: Discover Our Finest Homes
-  body: Each section of the home page can be arranged and customized through your
-    phone or computer. Easily manage your website through our website editor customized
-    specifically for real estate professionals.
-  button: Read more
-  button_link: "/our-team"
-  image: https://res.cloudinary.com/hungryram19/image/upload/v1605402573/templates/realestate2/agent-4_ovchvb.jpg
+  heading: GWB Land Acquisitions and Sales
+  body: At GWB Land Acquisitions and Sales, we believe that everyone deserves access
+    to land ownership. Whether you are the seasoned investor that has years of experience,
+    or you are interested in owning your first piece of property, our goal is to assist
+    you by “Making land Ownership Possible”. Together we have over 40 years of experience
+    in land acquisitions and sales and are here to make your buying experience simple
+    and smooth as possible. Our team is dedicated to streamlining the buying process
+    for each of our customers without skipping any steps. Let us help you in making
+    you dreams of land ownership possible.
+  button: Get in touch
+  button_link: "/contact"
+  image: https://res.cloudinary.com/hungryram19/image/upload/v1613236956/lavarres-lynch/land-site/gw_n6cmby.png
   image_alt_tag: John
   image_width: 400
 - template: active-listings
