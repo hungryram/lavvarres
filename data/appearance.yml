@@ -19,7 +19,7 @@ branding:
   logo: https://res.cloudinary.com/hungryram19/image/upload/v1613236956/lavarres-lynch/land-site/gw_n6cmby.png
   favicon: https://res.cloudinary.com/hungryram19/image/upload/v1613236956/lavarres-lynch/land-site/gw_n6cmby.png
 header:
-  top_header_color: "#D6BE63"
+  top_header_color: "#CCAA2B"
   header_background_color: "#FFFFFF"
   enable_white_text: false
   enable_white_text_top: true
