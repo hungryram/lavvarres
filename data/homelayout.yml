@@ -27,14 +27,12 @@ home_sections:
   heading: Active Listings
   body: View active listings in the office
 - template: text-and-contact-form
-  heading: We help you buy or sell your property quickly
-  body: Engage with our professional real estate agents to sell, buy or rent your
-    home. Get emails directly to your inbox and manage the lead as you wish.
+  heading: 'Helping you buy land '
+  body: 'Contact our team of professionals to make purchasing land as smooth as possible. '
   background_image: https://res.cloudinary.com/hungryram19/image/upload/v1605403006/templates/realestate2/clean-living-room_b3bubn.jpg
   form:
     heading: Send a message
-    body: Engage with our professional real estate agents to sell, buy or rent your
-      home. Get emails directly to your inbox and manage the lead as you wish.
+    body: We're dedicated to helping you. Send us an email and we'll reach out shortly!
   background_color: "#424242"
   enable_white_text: true
 - template: tiles
