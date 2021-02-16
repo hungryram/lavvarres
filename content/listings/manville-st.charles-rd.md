@@ -1,7 +1,6 @@
 +++
 cities = "Bishopville"
 date = ""
-draft = true
 featured = ""
 price = ""
 properties = "Acreage and Land"
