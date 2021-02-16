@@ -50,10 +50,10 @@ interior_rooms = []
 show_interior_details = false
 
 +++
-**_6+ acres located on Bell Road in Bishopville, SC. It could be an excellent location for a new homesite, farming, hemp farming, mobile home or anything you can imagine. There are no restrictions has plenty of road frontage with water and electricity are available._**
+##### **_6+ acres located on Bell Road in Bishopville, SC. It could be an excellent location for a new homesite, farming, hemp farming, mobile home or anything you can imagine. There are no restrictions has plenty of road frontage with water and electricity are available._**
 
-**_Price is $40,500 cash._**
+##### **_Price is $40,500 cash._**
 
-**_OWNER FINANCING IS ALSO AVAILABLE!!!_**
+##### **_OWNER FINANCING IS ALSO AVAILABLE!!!_**
 
-**_Feel free to inbox me for more information._**
+##### **_Feel free to inbox me for more information._**
