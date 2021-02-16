@@ -2,7 +2,7 @@
 cities = "Bishopville"
 date = ""
 featured = ""
-price = ""
+price = "$10,400- $15,200"
 properties = "Acreage and Land"
 schema_price = ""
 short_title = "Four 1+ acre lots"
