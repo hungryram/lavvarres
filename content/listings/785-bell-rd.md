@@ -50,7 +50,7 @@ interior_rooms = []
 show_interior_details = false
 
 +++
-**_Unrestricted land for sale. I have 6+ acres located on Bell Road in Bishopville, SC. It could be an excellent location for a new homesite, farming, hemp farming, mobile home or anything you can imagine. There are no restrictions has plenty of road frontage with water and electricity are available._**
+**_6+ acres located on Bell Road in Bishopville, SC. It could be an excellent location for a new homesite, farming, hemp farming, mobile home or anything you can imagine. There are no restrictions has plenty of road frontage with water and electricity are available._**
 
 **_Price is $40,500 cash._**
 
