@@ -29,7 +29,7 @@ home_sections:
 - template: text-and-contact-form
   heading: 'Helping you buy land '
   body: 'Contact our team of professionals to make purchasing land as smooth as possible. '
-  background_image: https://res.cloudinary.com/hungryram19/image/upload/v1605403006/templates/realestate2/clean-living-room_b3bubn.jpg
+  background_image: https://res.cloudinary.com/hungryram19/image/upload/v1613686978/lavarres-lynch/land-site/aerial-land_oiegzs.jpg
   form:
     heading: Send a message
     body: We're dedicated to helping you. Send us an email and we'll reach out shortly!
