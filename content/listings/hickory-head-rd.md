@@ -1,7 +1,6 @@
 +++
 cities = "Westville"
 date = ""
-draft = true
 featured = ""
 price = "$14,500"
 properties = "Acreage and Land"
