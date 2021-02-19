@@ -23,7 +23,7 @@ year_built = ""
 [listing_agent]
 listing_agent = []
 [photos]
-gallery = ["https://res.cloudinary.com/hungryram19/image/upload/v1613743390/lavarres-lynch/land-site/Pages_from_SOUTH_DIXIE_TRACT_489_acs_PLAT_ONLY_dqkmba.pdf"]
+gallery = ["https://res.cloudinary.com/hungryram19/image/upload/v1613744141/lavarres-lynch/land-site/IMG_2847_dgvtab.jpg"]
 [search_engine_optimization]
 meta_description = ""
 title_tag = ""
