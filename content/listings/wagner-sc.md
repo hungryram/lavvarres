@@ -1,7 +1,6 @@
 +++
 cities = "Wagner"
 date = ""
-draft = true
 featured = ""
 price = ""
 properties = "Acreage and Land"
