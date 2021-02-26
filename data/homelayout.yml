@@ -37,13 +37,13 @@ home_sections:
   enable_white_text: true
 - template: tiles
   heading: Featured Areas
-  body: View our best homes
+  body: View our best land
   tile_one:
-    heading: Feature One
-    image: ''
-    link: https://google.com
+    heading: Bishopville
+    image: https://res.cloudinary.com/hungryram19/image/upload/v1614318877/lavarres-lynch/land-site/land1_cx1qgu.jpg
+    link: "/cities/bishopville/"
   tile_two:
-    heading: Feature Two
+    heading: Wagner
     image: ''
     link: "/contact"
   tile_three:
