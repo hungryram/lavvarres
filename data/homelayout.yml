@@ -44,13 +44,13 @@ home_sections:
     link: "/cities/bishopville/"
   tile_two:
     heading: Wagner
-    image: ''
-    link: "/contact"
+    image: https://res.cloudinary.com/hungryram19/image/upload/v1614396879/lavarres-lynch/land-site/wagner_oar74c.jpg
+    link: "/cities/wagner/"
   tile_three:
-    heading: Feature Three
-    image: ''
-    link: "/contact"
+    heading: Westville
+    image: https://res.cloudinary.com/hungryram19/image/upload/v1614396928/lavarres-lynch/land-site/westville_ympndb.jpg
+    link: "/cities/westville/"
   tile_four:
-    heading: Feature Four
-    image: ''
-    link: "/team"
+    heading: Williston
+    image: https://res.cloudinary.com/hungryram19/image/upload/v1614397036/lavarres-lynch/land-site/willison_emdekb.jpg
+    link: "/cities/williston/"
