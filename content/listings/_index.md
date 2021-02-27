@@ -5,7 +5,7 @@ title = "Browse Our Properties"
 name = "Listings"
 weight = 2
 [menu.main]
-name = "Properties"
+name = "View Land"
 parent = "Buyers"
 weight = 1
 
