@@ -1,6 +1,6 @@
 +++
-body = "View featured properties from our office"
-title = "Browse Our Properties"
+body = "View featured land in South Carolina"
+title = "Browse the Land"
 [menu.footer]
 name = "Listings"
 weight = 2
