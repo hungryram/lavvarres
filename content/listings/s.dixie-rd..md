@@ -50,8 +50,8 @@ interior_rooms = []
 show_interior_details = false
 
 +++
-#### **_Unrestricted land for sale located in Aiken County, SC. Are you looking for a place to get away from the busy city life, a place to build your dream home or to start your own mini farm? Feel free to reach out to us for more information. We have several lots available and have access to larger parcels as well._** 
+#### **_11 acres of unrestricted land for sale located in Aiken County, SC. Are you looking for a place to get away from the busy city life, a place to build your dream home or to start your own mini farm? Feel free to reach out to us for more information. We have several lots available and have access to larger parcels as well._**
 
-#### **_Serious inquires feel free to inbox._** 
+#### **_Serious inquires feel free to inbox._**
 
 #### **_OWNER FINANCING IS AVAILABLE._**
