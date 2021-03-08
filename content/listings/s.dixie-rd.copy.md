@@ -9,7 +9,7 @@ schema_price = ""
 short_title = ""
 states = "South Carolina"
 status = "Active"
-title = "S. Dixie Rd. -(copy)"
+title = "S. Dixie Rd. (2)"
 url = ""
 zip-codes = "29164"
 [details]
