@@ -10,7 +10,7 @@ states = "South Carolina"
 status = "Active"
 title = "S. Dixie Rd. "
 url = ""
-zip-codes = ""
+zip-codes = "29164"
 [details]
 bathrooms = ""
 bedrooms = ""
