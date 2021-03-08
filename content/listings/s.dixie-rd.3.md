@@ -1,7 +1,6 @@
 +++
 cities = "Wagener"
 date = ""
-draft = true
 featured = "Featured"
 price = "$53,000"
 properties = "Acreage and Land"
