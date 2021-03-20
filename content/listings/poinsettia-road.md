@@ -24,7 +24,7 @@ year_built = ""
 [listing_agent]
 listing_agent = []
 [photos]
-gallery = []
+gallery = ["https://res.cloudinary.com/hungryram19/image/upload/v1616271157/lavarres-lynch/land-site/Poinsettia_3_vqqqpk.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1616271157/lavarres-lynch/land-site/Poinsettia_2_uwplqm.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1616271157/lavarres-lynch/land-site/Poinsettia_4_i4i7ga.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1616271157/lavarres-lynch/land-site/Poinsettia_1_g6twf0.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1616271157/lavarres-lynch/land-site/Poinsettia_5_ybxtui.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1616271157/lavarres-lynch/land-site/Poinsettia_6_igkd95.jpg"]
 [search_engine_optimization]
 meta_description = ""
 title_tag = ""
