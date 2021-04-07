@@ -9,7 +9,7 @@ schema_price = ""
 short_title = "33 Acres of unrestricted land"
 states = "South Carolina"
 status = "Available"
-title = "S. Dixie Rd. "
+title = "S. Dixie Rd. (33 acres)"
 url = ""
 zip-codes = "29164"
 [details]
