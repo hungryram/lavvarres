@@ -2,7 +2,7 @@
 cities = "Wagener"
 date = ""
 featured = "Featured"
-price = "138,600"
+price = "$138,600"
 properties = "Acreage and Land"
 schema_price = ""
 short_title = "33 Acres of unrestricted land"
