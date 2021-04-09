@@ -1,5 +1,5 @@
 +++
-cities = "Wagner"
+cities = "Wagener"
 date = ""
 featured = ""
 price = ""
@@ -8,7 +8,7 @@ schema_price = ""
 short_title = "400+ Acres"
 states = "South Carolina"
 status = "Coming Soon"
-title = "Wagner SC"
+title = "Wagener SC"
 url = ""
 zip-codes = ""
 [details]
