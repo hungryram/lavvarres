@@ -1,5 +1,5 @@
 +++
-cities = "Wagner"
+cities = "Wagener"
 date = ""
 featured = "Featured"
 price = ""
