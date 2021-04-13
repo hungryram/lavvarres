@@ -6,7 +6,7 @@ title_tag = "Testimonial"
 [menu.main]
 name = "Testimonials"
 parent = "Resources"
-weight = 2
+weight = 1
 [[testimonials]]
 date = ""
 name = "Jennifer Caldwell"
