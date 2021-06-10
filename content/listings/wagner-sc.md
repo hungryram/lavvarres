@@ -1,7 +1,7 @@
 +++
 cities = "Wagener"
 date = ""
-featured = ""
+featured = "Featured"
 price = ""
 properties = "Acreage and Land"
 schema_price = ""
