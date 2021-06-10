@@ -5,9 +5,9 @@ featured = ""
 price = ""
 properties = "Acreage and Land"
 schema_price = ""
-short_title = "400+ Acres"
+short_title = "Hundreds of acres ready now!"
 states = "South Carolina"
-status = "Coming Soon"
+status = "Active"
 title = "Wagener SC"
 url = ""
 zip-codes = ""
@@ -23,7 +23,7 @@ year_built = ""
 [listing_agent]
 listing_agent = []
 [photos]
-gallery = ["https://res.cloudinary.com/hungryram19/image/upload/v1613744141/lavarres-lynch/land-site/IMG_2847_dgvtab.jpg"]
+gallery = ["https://res.cloudinary.com/hungryram19/image/upload/v1623329272/lavarres-lynch/land-site/IMG_2652_wonxcq.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1623329272/lavarres-lynch/land-site/IMG_2653_cxas6l.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1623329272/lavarres-lynch/land-site/IMG_2654_oaemob.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1623329272/lavarres-lynch/land-site/IMG_2655_crbpxw.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1623329271/lavarres-lynch/land-site/IMG_2656_sstix5.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1623329271/lavarres-lynch/land-site/IMG_2657_xu2th5.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1623329272/lavarres-lynch/land-site/IMG_2658_vncmhm.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1623329272/lavarres-lynch/land-site/IMG_2659_eoi2o4.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1623329272/lavarres-lynch/land-site/IMG_2660_zfyncz.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1623329271/lavarres-lynch/land-site/IMG_2661_gkb210.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1623329272/lavarres-lynch/land-site/IMG_2662_qao6dr.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1617837626/lavarres-lynch/land-site/33_acre_4_cfyro9.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1616271157/lavarres-lynch/land-site/Poinsettia_4_i4i7ga.jpg"]
 [search_engine_optimization]
 meta_description = ""
 title_tag = ""
@@ -50,3 +50,4 @@ interior_rooms = []
 show_interior_details = false
 
 +++
+We have hundreds of acres available throughout Wagener SC. Whether you are looking for a small personal homesite, a family estate or the opportunity to begin your own large farm, the options are endless. 
