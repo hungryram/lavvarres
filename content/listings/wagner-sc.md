@@ -50,4 +50,4 @@ interior_rooms = []
 show_interior_details = false
 
 +++
-We have hundreds of acres available throughout Wagener SC. Whether you are looking for a small personal homesite, a family estate or the opportunity to begin your own large farm, the options are endless. 
+#### _We have hundreds of acres available throughout Wagener SC. Whether you are looking for a small personal homesite, a family estate or the opportunity to begin your own large farm, the options are endless._
