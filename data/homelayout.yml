@@ -23,9 +23,6 @@ home_sections:
   image: https://res.cloudinary.com/hungryram19/image/upload/v1613236956/lavarres-lynch/land-site/gw_n6cmby.png
   image_alt_tag: GWB Land Acquisitions and Sales, LLC
   image_width: 400
-- template: active-listings
-  heading: Active Listings
-  body: View active listings in the office
 - template: text-and-contact-form
   heading: 'Helping you buy land '
   body: 'Contact our team of professionals to make purchasing land as smooth as possible. '
