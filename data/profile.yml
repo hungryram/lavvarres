@@ -1,25 +1,24 @@
----
-company_name: Generational Wealth Builders
+company_name: test
 social_media:
-  instagram: ''
-  twitter: ''
+  instagram:
+  twitter:
   facebook: https://www.facebook.com/GWB-Land-Aquisitions-and-Sales-105435437993811
-  pinterest: ''
-  yelp: ''
+  pinterest:
+  yelp:
 contact_information:
   phone: 803-592-4321
   name: Lavarres Lynch
-  cell: ''
-  address: ''
+  cell:
+  address:
   email: gwblas@yahoo.com
-  license: ''
-  city: ''
-  state: ''
-  zip_code: ''
+  license:
+  city:
+  state:
+  zip_code:
 search_engine_optimization:
   title_tag: GWB Land Acquisitions and Sales, LLC
   meta_description: Making Land ownership possible
   twitter_card:
-    twitter_username: ''
+    twitter_username:
   facebook:
-    app_id: ''
+    app_id:
