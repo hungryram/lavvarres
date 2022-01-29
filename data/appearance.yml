@@ -1,38 +1,48 @@
----
 footer:
   additional_links:
     pages: search.md
-    quick_links: []
-  footer_background_color: "#232733"
-  background_image: https://res.cloudinary.com/hungryram19/image/upload/v1605403006/templates/realestate2/clean-living-room_b3bubn.jpg
-  logo: ''
-  footer_bio: Our goal at GWB Land and Sales Acquisition is to make owning land simple
-    and possible.
+    quick_links:
+  footer_background_color: '#232733'
+  background_image: >-
+    https://res.cloudinary.com/hungryram19/image/upload/v1605403006/templates/realestate2/clean-living-room_b3bubn.jpg
+  logo:
+  footer_bio: >-
+    Our goal at GWB Land and Sales Acquisition is to make owning land simple and
+    possible.
   enable_black_text: false
-  disclaimer: |-
-    The data and information contained within this website are for informational purposes. We try our best to keep all information up-to-date but encourage visitors to do their own research to determine the accuracy of material available on this website.
+  disclaimer: >-
+    The data and information contained within this website are for informational
+    purposes. We try our best to keep all information up-to-date but encourage
+    visitors to do their own research to determine the accuracy of material
+    available on this website.
 
-    While we strive to keep information accurate, we do not warrant the accuracy or completeness of the information, text, graphics, links or other items contained within these materials. Plead visit our full disclaimer for more information.
+
+    While we strive to keep information accurate, we do not warrant the accuracy
+    or completeness of the information, text, graphics, links or other items
+    contained within these materials. Plead visit our full disclaimer for more
+    information.
 branding:
   site_title: GWB Land Acquisitions and Sales, LLC
-  logo: https://res.cloudinary.com/hungryram19/image/upload/v1613236956/lavarres-lynch/land-site/gw_n6cmby.png
-  favicon: https://res.cloudinary.com/hungryram19/image/upload/v1613236956/lavarres-lynch/land-site/gw_n6cmby.png
+  logo: >-
+    https://res.cloudinary.com/hungryram19/image/upload/v1613236956/lavarres-lynch/land-site/gw_n6cmby.png
+  favicon: >-
+    https://res.cloudinary.com/hungryram19/image/upload/v1613236956/lavarres-lynch/land-site/gw_n6cmby.png
 header:
-  top_header_color: "#CCAA2B"
-  header_background_color: "#FFFFFF"
+  top_header_color: '#ccaa2b'
+  header_background_color: '#ffffff'
   enable_white_text: false
   enable_white_text_top: true
 pages:
-  image: https://res.cloudinary.com/hungryram19/image/upload/v1613686987/lavarres-lynch/land-site/aerial-neighborhood_b23tqa.jpg
+  image: /uploads/faivcon2.png
 sidebar:
   sidebar:
-  - template: side-blog-category
-    blog_categories: ''
-  - template: latest-posts
-    latest_posts: ''
+    - template: side-blog-category
+      blog_categories:
+    - template: latest-posts
+      latest_posts:
   single_property_sidebar: false
 colors:
-  button_background_color: "#D6BE63"
-  button_text_color: "#FFFFFF"
-  links: "#D6BE63"
-  accent: "#2EC8F7"
+  button_background_color: '#D6BE63'
+  button_text_color: '#FFFFFF'
+  links: '#D6BE63'
+  accent: '#2EC8F7'
