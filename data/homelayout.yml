@@ -1,53 +1,65 @@
----
 slideshow:
-- heading: GWB Land Acquisitions and Sales, LLC
-  subtitle: Let our team of experts guide you to your next home
-  link_label: Read More
-  link: https://www.hungryram.com
-  image: https://res.cloudinary.com/hungryram19/image/upload/v1613081894/lavarres-lynch/land-site/land_nbb3fo.jpg
-  body: Making land ownership possible
-  enable_white_text: true
+  - heading: GWB
+    subtitle: Let our team of experts guide you to your next home
+    link_label: Read More
+    link: https://www.hungryram.com
+    image: >-
+      https://res.cloudinary.com/hungryram19/image/upload/v1613081894/lavarres-lynch/land-site/land_nbb3fo.jpg
+    body: Making land ownership possible
+    enable_white_text: true
 home_sections:
-- template: text-and-image
-  heading: GWB Land Acquisitions and Sales
-  body: At GWB Land Acquisitions and Sales, we believe that everyone deserves access
-    to land ownership. Whether you are the seasoned investor that has years of experience,
-    or you are interested in owning your first piece of property, our goal is to assist
-    you by “Making land Ownership Possible”. Together we have over 40 years of experience
-    in land acquisitions and sales and are here to make your buying experience simple
-    and smooth as possible. Our team is dedicated to streamlining the buying process
-    for each of our customers without skipping any steps. Let us help you in making
-    you dreams of land ownership possible.
-  button: Get in touch
-  button_link: "/contact"
-  image: https://res.cloudinary.com/hungryram19/image/upload/v1613236956/lavarres-lynch/land-site/gw_n6cmby.png
-  image_alt_tag: GWB Land Acquisitions and Sales, LLC
-  image_width: 400
-- template: text-and-contact-form
-  heading: 'Helping you buy land '
-  body: 'Contact our team of professionals to make purchasing land as smooth as possible. '
-  background_image: https://res.cloudinary.com/hungryram19/image/upload/v1613686978/lavarres-lynch/land-site/aerial-land_oiegzs.jpg
-  form:
-    heading: Send a message
-    body: We're dedicated to helping you. Send us an email and we'll reach out shortly!
-  background_color: "#424242"
-  enable_white_text: true
-- template: tiles
-  heading: Featured Areas
-  body: View our best land
-  tile_one:
-    heading: Bishopville
-    image: https://res.cloudinary.com/hungryram19/image/upload/v1614318877/lavarres-lynch/land-site/land1_cx1qgu.jpg
-    link: "/cities/bishopville/"
-  tile_two:
-    heading: Wagner
-    image: https://res.cloudinary.com/hungryram19/image/upload/v1614396879/lavarres-lynch/land-site/wagner_oar74c.jpg
-    link: "/cities/wagner/"
-  tile_three:
-    heading: Westville
-    image: https://res.cloudinary.com/hungryram19/image/upload/v1614396928/lavarres-lynch/land-site/westville_ympndb.jpg
-    link: "/cities/westville/"
-  tile_four:
-    heading: Williston
-    image: https://res.cloudinary.com/hungryram19/image/upload/v1614397036/lavarres-lynch/land-site/willison_emdekb.jpg
-    link: "/cities/williston/"
+  - template: text-and-image
+    heading: GWB Land Acquisitions and Sales
+    body: >-
+      At GWB Land Acquisitions and Sales, we believe that everyone deserves
+      access to land ownership. Whether you are the seasoned investor that has
+      years of experience, or you are interested in owning your first piece of
+      property, our goal is to assist you by “Making land Ownership Possible”.
+      Together we have over 40 years of experience in land acquisitions and
+      sales and are here to make your buying experience simple and smooth as
+      possible. Our team is dedicated to streamlining the buying process for
+      each of our customers without skipping any steps. Let us help you in
+      making you dreams of land ownership possible.
+    button: Get in touch
+    button_link: /contact
+    image: >-
+      https://res.cloudinary.com/hungryram19/image/upload/v1613236956/lavarres-lynch/land-site/gw_n6cmby.png
+    image_alt_tag: GWB Land Acquisitions and Sales, LLC
+    image_width: 400
+  - template: text-and-contact-form
+    heading: 'Helping you buy land '
+    body: >-
+      Contact our team of professionals to make purchasing land as smooth as
+      possible. 
+    background_image: >-
+      https://res.cloudinary.com/hungryram19/image/upload/v1613686978/lavarres-lynch/land-site/aerial-land_oiegzs.jpg
+    form:
+      heading: Send a message
+      body: >-
+        We're dedicated to helping you. Send us an email and we'll reach out
+        shortly!
+    background_color: '#424242'
+    enable_white_text: true
+  - template: tiles
+    heading: Featured Areas
+    body: View our best land
+    tile_one:
+      heading: Bishopville
+      image: >-
+        https://res.cloudinary.com/hungryram19/image/upload/v1614318877/lavarres-lynch/land-site/land1_cx1qgu.jpg
+      link: /cities/bishopville/
+    tile_two:
+      heading: Wagner
+      image: >-
+        https://res.cloudinary.com/hungryram19/image/upload/v1614396879/lavarres-lynch/land-site/wagner_oar74c.jpg
+      link: /cities/wagner/
+    tile_three:
+      heading: Westville
+      image: >-
+        https://res.cloudinary.com/hungryram19/image/upload/v1614396928/lavarres-lynch/land-site/westville_ympndb.jpg
+      link: /cities/westville/
+    tile_four:
+      heading: Williston
+      image: >-
+        https://res.cloudinary.com/hungryram19/image/upload/v1614397036/lavarres-lynch/land-site/willison_emdekb.jpg
+      link: /cities/williston/
